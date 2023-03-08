@@ -8,11 +8,24 @@
 
 - `TreeSonif.py` is a python script that transforms an input NHX tree file onto a json file compatible with the sonificatopn modules developed by Mendel. to execute the script simply type: 
 
+- `SpiderOutput.json` is an example of the json file produced by `TreeSonif.py`.
+
+
+## Usage
+`TreeSonif.py` relies on a python library called `ete3` (http://etetoolkit.org/). Installation instructions can be found at http://etetoolkit.org/download/.
+
+To use `TreeSonif.py`, type: 
+
 ```py
-./TreeSonif.py -i input_file_name -o output_file_name
+./TreeSonif.py -i input_tree_file -o output_json_file
 ```
 
-The ouput file name is optional. If not specified, the output is written to the standard output. 
+For example, the json file `SpiderOutput.json` present in this repo was obtained from the nhx tree file `SpiderFinal.nhx` by typing: 
+
+```py
+./TreeSonif.py -i SpiderFinal.nhx -o SpiderOutput.json
+```
+
 
 To get help, type `TreeSonif.py -h`. To know the version of the script type `TreeSonif.py -v`.
 
@@ -25,3 +38,6 @@ To get help, type `TreeSonif.py -h`. To know the version of the script type `Tre
 - [ ] Add verbosity for people to know what happens when script is running
 - [ ] Make the script general (1): choose what features to include (through option)
 - [ ] Make the script general (2): choose what features to assign to parental nodes (through option) 
+
+
+___
