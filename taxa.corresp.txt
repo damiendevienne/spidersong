@@ -1,0 +1,140 @@
+1 Pellenes_peninsularis
+2 Pellenes_longimanus
+3 Pellenes_shoshonensis
+4 banksi
+5 'sp. (CHMLA)'
+6 CTARA
+7 delectus
+8 hallani
+9 icenoglei
+10 iviei
+11 'sp. (NAYAR)'
+12 oregonensis
+13 pochtecanus
+14 pugillis_Baboquivari
+15 pugillis_Patagonia
+16 pugillis
+17 sugillatus
+18 tarascanus
+19 'sp. (YESOS)'
+20 YESOS_Los_Yesos
+21 'sp. (YUCUN)'
+22 zapotecanus
+23 agilis
+24 alachua
+25 cognatus
+26 cognatus_PtoArista
+27 conjunctus
+28 contingens
+29 elegans
+30 mataxus
+31 peckhami
+32 altanus
+33 'altanus (N. Arizona)'
+34 altanus_Chih
+35 'altanus (Oaxaca)'
+36 texanus
+37 americanus
+38 americanus_Mono
+39 bulbipes
+40 cf_sansoni_Cedar_City
+41 kawini
+42 mustaciata
+43 ophrys
+44 sansoni
+45 sansoni_Ore
+46 tarsalis
+47 'tarsalis (Klamath)'
+48 tuberculatus
+49 waughi
+50 amicus
+51 signatus
+52 ustulatus_BCS
+53 ustulatus_Maricopa
+54 ustulatus_RailX
+55 aztecanus
+56 californicus
+57 cf_dossenus_Silver
+58 CHIH_Madera
+59 CHIH_Tomochic
+60 clypeatus_NoAZ
+61 clypeatus_Tucson
+62 'sp. (CNCTY)'
+63 divaricatus_BCN
+64 divaricatus
+65 dossenus_AZ
+66 dossenus_Sonora
+67 formosus
+68 forticulus
+69 velivolus
+70 velivolus_SJuanito
+71 ammophilus
+72 ammophilus_Magdalena
+73 anepsius
+74 anepsius_Los_Barriles
+75 anepsius_Magdalena
+76 ballatoris
+77 borealis
+78 brunneus
+79 captiosus
+80 carpus
+81 'cf. mexicanus (L. Colorada)'
+82 coecatus
+83 'cuspidatus (South)'
+84 'cuspidatus (North)'
+85 festus
+86 klauserii
+87 klauserii_CA
+88 mexicanus
+89 mexicanus_TX
+90 NMEX
+91 pyrrithrix
+92 pyrrithrix_BCS
+93 schlingeri
+94 tlaxcalanus
+95 'virgulatus (Arizona)'
+96 virgulatus_Cochise
+97 'virgulatus (Hidalgo)'
+98 zebraneus
+99 carolinensis
+100 cockerelli
+101 decorus
+102 ocala
+103 'sp. (SPLEND)'
+104 venatoris
+105 cambridgei
+106 cambridgei_Chiapas
+107 cambridgei_Jalisco
+108 fallax_Nayarit
+109 fallax_AZ
+110 fallax_Chiapas
+111 fallax
+112 'sp. (CHUAST) Chiapas'
+113 'sp. (CHUAST) Nayarit'
+114 dorotheae_Jalisco
+115 dorotheae_TX
+116 geronimoi
+117 'sp. (MACHAL)'
+118 paratus
+119 'cf. paratus (Sucumbios)'
+120 hirsutus
+121 hirsutus_BCS
+122 LKHSTY
+123 SCOTSD
+124 tranquillus
+125 calcaratus_agricola
+126 calcaratus_calcaratus
+127 calcaratus_maddisoni
+128 cf_calcaratus_Ft_Stockton
+129 jucundus
+130 jucundus_ID
+131 moratus
+132 notialis
+133 orbus
+134 'sp. (ROBRT)'
+135 'sp. (ROBRT) Jalisco'
+136 ROBRT_Los_Yesos
+137 'sp. (ROBRT) Nayarit'
+138 trimaculatus
+139 viridipes
+140 'viridipes (Texas)'

@@ -1,0 +1,140 @@
+Pellenes_peninsularis         ? ? ?
+Pellenes_longimanus           ? ? ?
+Pellenes_shoshonensis         ? ? ?
+banksi                        ? ? ?
+'sp. (CHMLA)'                 ? ? ?
+CTARA                         ? ? ?
+delectus                      ? ? ?
+hallani                       0.719091634 1.0 0.13502198
+icenoglei                     0.66342225 0.696759546 0.108199357
+iviei                         0.795575827 1.0 0.104354193
+'sp. (NAYAR)'                 0.526481485 0.543865503 0.169512528
+oregonensis                   0.556614159 0.593686016 0.142551471
+pochtecanus                   0.800395432 1.0 0.079125725
+pugillis_Baboquivari          ? ? ?
+pugillis_Patagonia            ? ? ?
+pugillis                      0.698614932 0.698203977 0.076661109
+sugillatus                    0.741891887 1.0 0.119183824
+tarascanus                    0.773706364 0.951409669 0.085168237
+'sp. (YESOS)'                 0.633991582 0.660140695 0.117798784
+YESOS_Los_Yesos               ? ? ?
+'sp. (YUCUN)'                 0.468526197 0.437316324 0.141194007
+zapotecanus                   ? ? ?
+agilis                        0.532104733 0.517829775 0.146785324
+alachua                       ? ? ?
+cognatus                      ? ? ?
+cognatus_PtoArista            ? ? ?
+conjunctus                    0.458273356 0.519898203 0.117308359
+contingens                    0.683159353 0.841819756 0.130484349
+elegans                       ? ? ?
+mataxus                       ? ? ?
+peckhami                      ? ? ?
+altanus                       0.713383007 1.0 0.145706061
+'altanus (N. Arizona)'        ? ? ?
+altanus_Chih                  ? ? ?
+'altanus (Oaxaca)'            ? ? ?
+texanus                       0.437445554 0.422326347 0.159420157
+americanus                    0.667724363 0.71516317 0.118279908
+americanus_Mono               ? ? ?
+bulbipes                      ? ? ?
+cf_sansoni_Cedar_City         ? ? ?
+kawini                        ? ? ?
+mustaciata                    ? ? ?
+ophrys                        0.500122254 0.52792789 0.140249329
+sansoni                       ? ? ?
+sansoni_Ore                   ? ? ?
+tarsalis                      0.548064337 0.554882869 0.158763645
+'tarsalis (Klamath)'          ? ? ?
+tuberculatus                  ? ? ?
+waughi                        ? ? ?
+amicus                        ? ? ?
+signatus                      0.701317172 0.835796038 0.107986718
+ustulatus_BCS                 ? ? ?
+ustulatus_Maricopa            ? ? ?
+ustulatus_RailX               ? ? ?
+aztecanus                     ? ? ?
+californicus                  ? ? ?
+cf_dossenus_Silver            ? ? ?
+CHIH_Madera                   ? ? ?
+CHIH_Tomochic                 ? ? ?
+clypeatus_NoAZ                ? ? ?
+clypeatus_Tucson              ? ? ?
+'sp. (CNCTY)'                 0.812514521 1.0 0.092731238
+divaricatus_BCN               ? ? ?
+divaricatus                   0.611852878 0.630377253 0.141967505
+dossenus_AZ                   ? ? ?
+dossenus_Sonora               ? ? ?
+formosus                      0.571918004 0.632241183 0.120604234
+forticulus                    0.800191509 1.0 0.091563227
+velivolus                     0.692113781 0.75130188 0.097943983
+velivolus_SJuanito            ? ? ?
+ammophilus                    0.592036729 0.719269606 0.172990813
+ammophilus_Magdalena          ? ? ?
+anepsius                      ? ? ?
+anepsius_Los_Barriles         ? ? ?
+anepsius_Magdalena            ? ? ?
+ballatoris                    ? ? ?
+borealis                      0.907015556 1.0 0.039136384
+brunneus                      ? ? ?
+captiosus                     ? ? ?
+carpus                        ? ? ?
+'cf. mexicanus (L. Colorada)' ? ? ?
+coecatus                      ? ? ?
+'cuspidatus (South)'          ? ? ?
+'cuspidatus (North)'          ? ? ?
+festus                        ? ? ?
+klauserii                     0.847897567 1.0 0.057336852
+klauserii_CA                  ? ? ?
+mexicanus                     0.764175636 0.860109773 0.078053365
+mexicanus_TX                  ? ? ?
+NMEX                          ? ? ?
+pyrrithrix                    0.78527408 1.0 0.094257151
+pyrrithrix_BCS                ? ? ?
+schlingeri                    0.69306824 1.0 0.150930615
+tlaxcalanus                   ? ? ?
+'virgulatus (Arizona)'        ? ? ?
+virgulatus_Cochise            ? ? ?
+'virgulatus (Hidalgo)'        0.688868426 0.747351128 0.08702523
+zebraneus                     ? ? ?
+carolinensis                  ? ? ?
+cockerelli                    0.947174704 1.0 0.027786936
+decorus                       0.901319978 1.0 0.074415413
+ocala                         ? ? ?
+'sp. (SPLEND)'                ? ? ?
+venatoris                     ? ? ?
+cambridgei                    ? ? ?
+cambridgei_Chiapas            ? ? ?
+cambridgei_Jalisco            ? ? ?
+fallax_Nayarit                ? ? ?
+fallax_AZ                     ? ? ?
+fallax_Chiapas                ? ? ?
+fallax                        0.728771738 0.833465855 0.085376984
+'sp. (CHUAST) Chiapas'        0.462818714 0.377004416 0.152466064
+'sp. (CHUAST) Nayarit'        ? ? ?
+dorotheae_Jalisco             ? ? ?
+dorotheae_TX                  ? ? ?
+geronimoi                     0.644888146 0.696031779 0.117990032
+'sp. (MACHAL)'                0.733219601 0.824355685 0.092040962
+paratus                       0.395442174 0.395746708 0.144268356
+'cf. paratus (Sucumbios)'     0.768440522 0.854340994 0.071554764
+hirsutus                      0.496678579 0.524787467 0.127613031
+hirsutus_BCS                  ? ? ?
+LKHSTY                        ? ? ?
+SCOTSD                        ? ? ?
+tranquillus                   ? ? ?
+calcaratus_agricola           ? ? ?
+calcaratus_calcaratus         ? ? ?
+calcaratus_maddisoni          0.813267028 1.0 0.079236791
+cf_calcaratus_Ft_Stockton     ? ? ?
+jucundus                      ? ? ?
+jucundus_ID                   ? ? ?
+moratus                       0.850584725 1.0 0.066750451
+notialis                      ? ? ?
+orbus                         0.765590692 0.877706776 0.07969936
+'sp. (ROBRT)'                 0.632848997 0.705260693 0.145286069
+'sp. (ROBRT) Jalisco'         ? ? ?
+ROBRT_Los_Yesos               ? ? ?
+'sp. (ROBRT) Nayarit'         ? ? ?
+trimaculatus                  ? ? ?
+viridipes                     0.46442391 0.34634441 0.144716308
+'viridipes (Texas)'           ? ? ?
