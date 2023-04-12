@@ -12,7 +12,7 @@
 
 - `Tree.svg` is an example of the graphical output produced by `TreeSonif.py`.
 
-## Prerequisite
+## Dependencies
 `TreeSonif.py` relies on these python libraries: 
 
 - ete3
