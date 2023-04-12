@@ -21,9 +21,8 @@ parser.add_argument('-i', '--input', type=str, required=True,
                     help='The input file name, containing a single tree in NHX format.')
 parser.add_argument('-o', '--output', type=str, required=False,
                     help='The output file, json format.')
-parser.add_argument('--drawtree', help="Should the tree be plotted (creates tree.svg and treepng files)", action='store_true')
+parser.add_argument('--drawtree', help="Should the tree be plotted (creates tree.svg)", action='store_true')
 parser.add_argument('--margin', type=int, default=10, help='Margins for the plot in pixels')
-args = parser.parse_args()
 parser.add_argument('-v', '--version', action='version', version='%(prog)s 2.2')
 
 args = parser.parse_args()
