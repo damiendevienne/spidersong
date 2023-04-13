@@ -23,7 +23,7 @@ parser.add_argument('-o', '--output', type=str, required=False,
                     help='The output file, json format.')
 parser.add_argument('--drawtree', help="Should the tree be plotted (creates tree.svg)", action='store_true')
 parser.add_argument('--margin', type=int, default=10, help='Margins for the plot in pixels')
-parser.add_argument('-v', '--version', action='version', version='%(prog)s 2.2')
+parser.add_argument('-v', '--version', action='version', version='%(prog)s 2.3')
 
 args = parser.parse_args()
 
@@ -214,6 +214,8 @@ except:
 	print("Couldn't find or open the input tree file")
 	sys.exit(1)
 
+#Hard-code missing features at root
+tr.add_features(Brownian=0,Karyo='XX0',MeanChi='0.595805617054308',MedChi='0.665720349846962',NeoY='0',VarChi='0.121151109602763', dist=0.0212203149017972,support=45.0)
 tr2 = ComputeCoordRadial(tr)
 trjson = BuildJsonTree(tr2)
 WriteFinalJson(trjson, args.output)
